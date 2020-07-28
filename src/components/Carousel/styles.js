@@ -1,14 +1,16 @@
 import styled from 'styled-components';
 
 export const Title = styled.h3`
+  font-family: var(--title);
   font-style: normal;
-  font-weight: normal;
+  font-weight: 500;
   font-size: 35px;
   line-height: 1;
   margin-bottom: 16px;
   display: inline-block;
   padding: 20px;
-  background: red;
+  border-left: 10px solid red;
+  border-bottom: 10px solid red;
   line-height: 1;
   border-radius: 4px;
 
@@ -52,5 +54,5 @@ export const VideoCardGroupContainer = styled.section`
   color: white;
   min-height: 197px;
   margin-left: 5%;
-  margin-bottom: 16px;
+  margin-bottom: 30px;
 `;
