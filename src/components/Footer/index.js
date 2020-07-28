@@ -1,11 +1,12 @@
 import React from 'react';
-import { FooterBase } from './styles';
+import { FooterBase, Logo } from './styles';
+import logo from "../../assets/Logo.png"
 
 function Footer() {
   return (
     <FooterBase>
       <a href="/">
-        Nicolas Santos
+        <Logo src={logo} />
       </a>
       <p>
         Orgulhosamente criado durante a
