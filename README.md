@@ -12,4 +12,4 @@ Feito durante a **Imersão React** da Alura
 
 ## :warning: ainda em desenvolvimento :warning:
 
-Acompanhe o aplicativo em produção [aqui](nickflix.vercel.app) 
+Acompanhe o aplicativo em produção [aqui](https://nickflix.vercel.app) 
